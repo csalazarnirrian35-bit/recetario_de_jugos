@@ -60,7 +60,7 @@ src/
    * Ingresa en tu navegador a `http://localhost:8080` para registrarte o iniciar sesión.
 ---
 
-## Realizado por:
+## Datos de Contacto:
 
 **Cynthia del Carmen Salazar Nirrian**  
 Desarrolladora Full Stack Java Junior  
